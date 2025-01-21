@@ -1,5 +1,5 @@
-# Geofs-GSE !{image alt}(<img src="https://raw.githubusercontent.com/Vansh-Vviation/Geofs-GSE/refs/heads/main/Untitled391_20250120183047.png"/>![Uploading image.png…]()
-)
+# Geofs-GSE <img src="https://raw.githubusercontent.com/Vansh-Vviation/Geofs-GSE/refs/heads/main/Untitled391_20250120183047.png"/>![Uploading image.png…]()
+
 This is a geofs add-on designed to add ground support equipment to Geofs. Code will be released once finalized and working. 
 This add will include:
 Fire Trucks,
